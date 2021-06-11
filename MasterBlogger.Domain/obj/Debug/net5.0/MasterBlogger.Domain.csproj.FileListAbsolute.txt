@@ -1,0 +1,12 @@
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\net5.0\MasterBlogger.Domain.deps.json
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\net5.0\MasterBlogger.Domain.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\net5.0\ref\MasterBlogger.Domain.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\net5.0\MasterBlogger.Domain.pdb
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MasterBlogger.Domain.csprojAssemblyReference.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MasterBlogger.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MasterBlogger.Domain.AssemblyInfoInputs.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MasterBlogger.Domain.AssemblyInfo.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MasterBlogger.Domain.csproj.CoreCompileInputs.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MasterBlogger.Domain.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\ref\MasterBlogger.Domain.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MasterBlogger.Domain.pdb

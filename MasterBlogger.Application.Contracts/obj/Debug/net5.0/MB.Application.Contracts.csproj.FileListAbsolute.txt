@@ -1,0 +1,12 @@
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.deps.json
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\bin\Debug\net5.0\ref\MB.Application.Contracts.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\bin\Debug\net5.0\MB.Application.Contracts.pdb
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.csprojAssemblyReference.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfoInputs.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.AssemblyInfo.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\ref\MB.Application.Contracts.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application.Contracts\obj\Debug\net5.0\MB.Application.Contracts.pdb
