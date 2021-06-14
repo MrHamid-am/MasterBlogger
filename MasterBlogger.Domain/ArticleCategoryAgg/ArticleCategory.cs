@@ -1,5 +1,5 @@
 ﻿using System;
-using MB.Domain.Services;
+using MB.Domain.ArticleCategoryAgg.Services;
 
 namespace MB.Domain.ArticleCategoryAgg
 {

@@ -4,7 +4,7 @@ using System.Globalization;
 using System.Linq;
 using MB.Application.Contracts.ArticleCategory;
 using MB.Domain.ArticleCategoryAgg;
-using MB.Domain.Services;
+using MB.Domain.ArticleCategoryAgg.Services;
 
 namespace MB.Application
 {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MB.Domain.ArticleCategoryAgg;
 
-namespace MB.Domain.Services
+namespace MB.Domain.ArticleCategoryAgg.Services
 {
     public interface IArticleCategoryValidatorService
     {
