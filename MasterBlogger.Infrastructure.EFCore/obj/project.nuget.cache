@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CwVFPK6H3SjS8+2dhrYJDhi1Q3MiF2vx6NRCR6HoVFpo35y7GgA6h8STL8pGvMm+R825IaD7qYFc1+Y+WHAoIg==",
+  "dgSpecHash": "LmSZDKAMtL5P0h4u8m0p20uPgsNnSacXd/wg3hWN1M2vB9i5uzimbGuhRj5mD2jv1dcMAxv0YE5KtdHo8Y2Ymg==",
   "success": true,
   "projectFilePath": "C:\\TDD-BDD Projects\\Master blogger\\MasterBlogger\\MasterBlogger.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj",
   "expectedPackageFiles": [

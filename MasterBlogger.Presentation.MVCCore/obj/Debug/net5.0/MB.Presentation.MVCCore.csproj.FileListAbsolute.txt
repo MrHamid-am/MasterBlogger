@@ -81,3 +81,4 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCC
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Core.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Create.cshtml.g.cs
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleCategoryManagement\Edit.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs

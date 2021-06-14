@@ -16,3 +16,5 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EF
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\ref\MB.Infrastructure.EFCore.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
