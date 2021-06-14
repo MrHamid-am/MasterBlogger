@@ -8,7 +8,7 @@ using MB.Domain.ArticleAgg;
 
 namespace MB.Application
 {
-    public class ArticleApplication:IArticleApplication
+    public class ArticleApplication : IArticleApplication
     {
         private readonly IArticleRepository _articleRepository;
 
@@ -19,7 +19,20 @@ namespace MB.Application
 
         public List<ArticleViewModel> GetList()
         {
-           return _articleRepository.GetList();
+            return _articleRepository.GetList();
+        }
+
+        public void Create(CreateArticle command)
+        {
+            var article = new Article(
+                command.Title,
+                command.ShortDescription,
+                command.Image,
+                command.Content,
+                command.ArticleCategoryId
+                );
+
+            _articleRepository.CreateAndSave(article);
         }
     }
 }
