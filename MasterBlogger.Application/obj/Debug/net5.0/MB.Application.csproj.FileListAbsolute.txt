@@ -6,7 +6,6 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\bin\D
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\bin\Debug\net5.0\MB.Domain.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\bin\Debug\net5.0\MB.Domain.pdb
-C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\MB.Application.csprojAssemblyReference.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\MB.Application.GeneratedMSBuildEditorConfig.editorconfig
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\MB.Application.AssemblyInfoInputs.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\MB.Application.AssemblyInfo.cs
@@ -15,3 +14,4 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\D
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\MB.Application.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\ref\MB.Application.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\MB.Application.pdb
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Application\obj\Debug\net5.0\MB.Application.csproj.AssemblyReference.cache

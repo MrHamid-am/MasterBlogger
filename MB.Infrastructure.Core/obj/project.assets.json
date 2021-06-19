@@ -1532,6 +1532,19 @@
         "runtime": {
           "bin/placeholder/MB.Infrastructure.EFCore.dll": {}
         }
+      },
+      "MB.Infrastructure.Query/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MB.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MB.Infrastructure.Query.dll": {}
+        }
       }
     }
   },
@@ -5764,6 +5777,11 @@
       "type": "project",
       "path": "../MasterBlogger.Infrastructure.EFCore/MB.Infrastructure.EFCore.csproj",
       "msbuildProject": "../MasterBlogger.Infrastructure.EFCore/MB.Infrastructure.EFCore.csproj"
+    },
+    "MB.Infrastructure.Query/1.0.0": {
+      "type": "project",
+      "path": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj",
+      "msbuildProject": "../MB.Infrastructure.Query/MB.Infrastructure.Query.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5772,6 +5790,7 @@
       "MB.Application.Contracts >= 1.0.0",
       "MB.Domain >= 1.0.0",
       "MB.Infrastructure.EFCore >= 1.0.0",
+      "MB.Infrastructure.Query >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 5.0.1"
     ]
   },
@@ -5821,6 +5840,9 @@
             },
             "C:\\TDD-BDD Projects\\Master blogger\\MasterBlogger\\MasterBlogger.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj": {
               "projectPath": "C:\\TDD-BDD Projects\\Master blogger\\MasterBlogger\\MasterBlogger.Infrastructure.EFCore\\MB.Infrastructure.EFCore.csproj"
+            },
+            "C:\\TDD-BDD Projects\\Master blogger\\MasterBlogger\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj": {
+              "projectPath": "C:\\TDD-BDD Projects\\Master blogger\\MasterBlogger\\MB.Infrastructure.Query\\MB.Infrastructure.Query.csproj"
             }
           }
         }
@@ -5855,7 +5877,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

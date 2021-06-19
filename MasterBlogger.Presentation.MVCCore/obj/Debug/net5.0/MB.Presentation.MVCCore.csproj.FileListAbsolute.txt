@@ -9,7 +9,6 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCC
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.Views.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\bin\Debug\net5.0\MB.Presentation.MVCCore.Views.pdb
-C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csprojAssemblyReference.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfoInputs.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.AssemblyInfo.cs
@@ -84,3 +83,12 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCC
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\List.cshtml.g.cs
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Create.cshtml.g.cs
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\ArticleManagement\Edit.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\MB.Presentation.MVCCore.csproj.AssemblyReference.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\ArticleDetails.cshtml.g.cs

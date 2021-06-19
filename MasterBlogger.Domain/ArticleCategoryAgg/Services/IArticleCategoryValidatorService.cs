@@ -25,7 +25,7 @@ namespace MB.Domain.ArticleCategoryAgg.Services
         {
             if (_repository.Exists(title))
             {
-                throw new Exception();
+                throw new Exception("Article already exists.");
             }
         }
     }

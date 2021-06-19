@@ -6,7 +6,6 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EF
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Domain.pdb
-C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.csprojAssemblyReference.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.GeneratedMSBuildEditorConfig.editorconfig
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.AssemblyInfoInputs.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.AssemblyInfo.cs
@@ -18,3 +17,4 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EF
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.genruntimeconfig.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.csproj.AssemblyReference.cache

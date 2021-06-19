@@ -10,7 +10,6 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debu
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Application.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Domain.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.EFCore.pdb
-C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csprojAssemblyReference.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.AssemblyInfoInputs.cache
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.AssemblyInfo.cs
@@ -19,3 +18,6 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debu
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\ref\MB.Infrastructure.Core.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.pdb
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csproj.AssemblyReference.cache
