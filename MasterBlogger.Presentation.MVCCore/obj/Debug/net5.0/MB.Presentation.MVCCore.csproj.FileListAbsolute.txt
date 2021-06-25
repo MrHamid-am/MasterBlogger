@@ -92,3 +92,4 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCC
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Pages\ArticleDetails.cshtml.g.cs
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Presentation.MVCCore\obj\Debug\net5.0\Razor\Areas\Administrator\Pages\CommentManagement\List.cshtml.g.cs
