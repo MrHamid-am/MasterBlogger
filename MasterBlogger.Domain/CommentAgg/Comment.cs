@@ -11,9 +11,9 @@ namespace MB.Domain.CommentAgg
     {
         public long Id { get; private set; }
         public string Name { get; private set; }
-        public string Email { get; private set; }   
+        public string Email { get; private set; }
         public string Message { get; private set; }
-        public int Status { get; private set; }// 0: new, 1: confirmed, 2:cancelled
+        public int Status { get; private set; }
         public DateTime CreationDate { get; private set; }
         public long ArticleId { get; private set; }
         public Article Article { get; set; }
@@ -30,7 +30,17 @@ namespace MB.Domain.CommentAgg
 
         protected Comment()
         {
-            
+
+        }
+
+        public void Confirm()
+        {
+            Status = Statuses.Confirm;
+        }
+
+        public void Cancel()
+        {
+            Status = Statuses.Cancelled;
         }
     }
 }
