@@ -35,7 +35,7 @@ namespace MB.Domain.CommentAgg
 
         public void Confirm()
         {
-            Status = Statuses.Confirm;
+            Status = Statuses.Confirmed;
         }
 
         public void Cancel()
