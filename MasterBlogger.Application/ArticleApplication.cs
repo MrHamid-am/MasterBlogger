@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using _01_Framework.Infrastructure;
 using MB.Application.Contracts.Article;
 using MB.Domain.ArticleAgg;
 
@@ -10,11 +11,13 @@ namespace MB.Application
 {
     public class ArticleApplication : IArticleApplication
     {
+        private readonly IUnitOfWork _unitOfWork;
         private readonly IArticleRepository _articleRepository;
 
-        public ArticleApplication(IArticleRepository articleRepository)
+        public ArticleApplication(IArticleRepository articleRepository, IUnitOfWork unitOfWork)
         {
             _articleRepository = articleRepository;
+            _unitOfWork = unitOfWork;
         }
 
         public List<ArticleViewModel> GetList()
@@ -24,6 +27,8 @@ namespace MB.Application
 
         public void Create(CreateArticle command)
         {
+            _unitOfWork.BeginTransaction();
+
             var article = new Article(
                 command.Title,
                 command.ShortDescription,
@@ -33,10 +38,14 @@ namespace MB.Application
                 );
 
             _articleRepository.Create(article);
+
+            _unitOfWork.CommitTransaction();
         }
 
         public void Edit(EditArticle command)
         {
+            _unitOfWork.BeginTransaction();
+
             var article = _articleRepository.Get(command.Id);
             article.Edit(
                 command.Title, 
@@ -44,8 +53,8 @@ namespace MB.Application
                 command.Image, 
                 command.Content, 
                 command.ArticleCategoryId);
-
-            //_articleRepository.Save();
+                
+            _unitOfWork.CommitTransaction();
         }
 
         public EditArticle Get(long id)
@@ -65,16 +74,23 @@ namespace MB.Application
 
         public void Remove(long id)
         {
+            _unitOfWork.CommitTransaction();
+
             var article = _articleRepository.Get(id);
             article.Remove();
-            //_articleRepository.Save();
+
+            _unitOfWork.CommitTransaction();
         }
 
         public void Activate(long id)
         {
+            _unitOfWork.BeginTransaction();
+
             var article = _articleRepository.Get(id);
             article.Activate();
             //_articleRepository.Save();
+
+            _unitOfWork.CommitTransaction();
         }
     }
 }

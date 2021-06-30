@@ -13,3 +13,5 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MB.Domain.csproj.CopyComplete
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\obj\Debug\net5.0\MB.Domain.csproj.AssemblyReference.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\net5.0\01_Framework.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Domain\bin\Debug\net5.0\01_Framework.pdb

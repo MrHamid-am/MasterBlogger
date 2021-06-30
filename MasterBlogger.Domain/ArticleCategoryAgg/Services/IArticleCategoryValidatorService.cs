@@ -23,7 +23,7 @@ namespace MB.Domain.ArticleCategoryAgg.Services
 
         public void CheckArticleAlreadyExists(string title)
         {
-            if (_repository.Exists(title))
+            if (_repository.Exists(x=>x.Title == title))
             {
                 throw new Exception("Article already exists.");
             }

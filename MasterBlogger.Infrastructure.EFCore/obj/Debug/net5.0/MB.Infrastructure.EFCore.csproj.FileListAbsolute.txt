@@ -18,3 +18,5 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EF
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\MB.Application.Contracts.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\obj\Debug\net5.0\MB.Infrastructure.EFCore.csproj.AssemblyReference.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\01_Framework.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MasterBlogger.Infrastructure.EFCore\bin\Debug\net5.0\01_Framework.pdb
