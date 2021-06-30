@@ -21,3 +21,5 @@ C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debu
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.dll
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\MB.Infrastructure.Query.pdb
 C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\obj\Debug\net5.0\MB.Infrastructure.Core.csproj.AssemblyReference.cache
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framework.dll
+C:\TDD-BDD Projects\Master blogger\MasterBlogger\MB.Infrastructure.Core\bin\Debug\net5.0\01_Framework.pdb

@@ -29,20 +29,20 @@ namespace MB.Application
                 Title = articleCategory.Title,
                 IsDeleted = articleCategory.IsDeleted,
                 CreationDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture)
-            }).ToList();
+            }).OrderByDescending(x=>x.Id).ToList();
         }
 
         public void Create(CreateArticleCategory command)
         {
             var articleCategory = new ArticleCategory(command.Title,_validatorService);
-            _articleCategoryRepository.Add(articleCategory);
+            _articleCategoryRepository.Create(articleCategory);
         }
 
         public void Rename(RenameArticleCategory command)
         {
             var articleCategory = _articleCategoryRepository.Get(command.Id); 
             articleCategory.Rename(command.Title);
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
         public RenameArticleCategory Get(long id)
@@ -59,14 +59,14 @@ namespace MB.Application
         {
             var articleCategory = _articleCategoryRepository.Get(id);
             articleCategory.Remove();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
         public void Activate(long id)
         {
             var articleCategory = _articleCategoryRepository.Get(id);
             articleCategory.Activate();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
     }
 }
